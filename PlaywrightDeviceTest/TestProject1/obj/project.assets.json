@@ -1690,11 +1690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thomasphan/RiderProjects/PlaywrightDeviceTest/TestProject1/TestProject1.csproj",
+      "projectUniqueName": "/Users/thomasphan/RiderProjects/Playwright-Device-Test/PlaywrightDeviceTest/TestProject1/TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "/Users/thomasphan/RiderProjects/PlaywrightDeviceTest/TestProject1/TestProject1.csproj",
+      "projectPath": "/Users/thomasphan/RiderProjects/Playwright-Device-Test/PlaywrightDeviceTest/TestProject1/TestProject1.csproj",
       "packagesPath": "/Users/thomasphan/.nuget/packages/",
-      "outputPath": "/Users/thomasphan/RiderProjects/PlaywrightDeviceTest/TestProject1/obj/",
+      "outputPath": "/Users/thomasphan/RiderProjects/Playwright-Device-Test/PlaywrightDeviceTest/TestProject1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thomasphan/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fNehUrfcODU=",
+  "dgSpecHash": "2L2kM++x43I=",
   "success": true,
-  "projectFilePath": "/Users/thomasphan/RiderProjects/PlaywrightDeviceTest/TestProject1/TestProject1.csproj",
+  "projectFilePath": "/Users/thomasphan/RiderProjects/Playwright-Device-Test/PlaywrightDeviceTest/TestProject1/TestProject1.csproj",
   "expectedPackageFiles": [
     "/Users/thomasphan/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/thomasphan/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
